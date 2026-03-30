@@ -1,0 +1,120 @@
+Audifonos Bluetooth|45000|Electronica
+Mouse inalambrico|32000|Electronica
+Teclado mecanico|85000|Electronica
+Cable HDMI|15000|Electronica
+Cargador portatil|38000|Electronica
+Memoria USB 64GB|22000|Electronica
+Parlante portatil|78000|Electronica
+Webcam HD|65000|Electronica
+Disco duro externo 1TB|185000|Electronica
+Monitor 24 pulgadas|420000|Electronica
+Smart TV 55 pulgadas|500000|Electronica
+Laptop HP Pavilion|490000|Electronica
+Consola PlayStation 5|450000|Electronica
+Control inalambrico Xbox|120000|Electronica
+Tablet Samsung Galaxy|380000|Electronica
+Camara web 4K|95000|Electronica
+Impresora multifuncional|310000|Electronica
+Router WiFi 6|145000|Electronica
+Smartwatch deportivo|230000|Electronica
+Bateria externa 20000mAh|55000|Electronica
+Arroz integral 1kg|8200|Alimentos
+Aceite de oliva 500ml|24500|Alimentos
+Leche deslactosada 1L|5800|Alimentos
+Cafe molido 500g|18500|Alimentos
+Pasta espagueti 500g|4200|Alimentos
+Salsa de tomate 400g|9800|Alimentos
+Atun en lata|7500|Alimentos
+Galletas integrales|6300|Alimentos
+Cereal de avena 400g|12800|Alimentos
+Chocolate amargo 200g|14500|Alimentos
+Miel de abejas 350ml|19200|Alimentos
+Granola 500g|16700|Alimentos
+Jugo de naranja 1L|7800|Alimentos
+Agua mineral 6 pack|9500|Alimentos
+Yogurt griego 1L|11200|Alimentos
+Mantequilla de mani 300g|15800|Alimentos
+Harina de trigo 1kg|5200|Alimentos
+Azucar morena 1kg|6800|Alimentos
+Sal marina 500g|3500|Alimentos
+Vinagre balsamico 250ml|13400|Alimentos
+Camiseta algodon|35000|Ropa
+Jean clasico|89000|Ropa
+Chaqueta impermeable|145000|Ropa
+Zapatos deportivos|165000|Ropa
+Medias deportivas pack x3|18000|Ropa
+Gorra ajustable|25000|Ropa
+Sudadera con capucha|72000|Ropa
+Bermuda casual|48000|Ropa
+Camisa formal|95000|Ropa
+Vestido casual|110000|Ropa
+Falda plisada|68000|Ropa
+Pantalon jogger|62000|Ropa
+Cinturon de cuero|42000|Ropa
+Bufanda de lana|28000|Ropa
+Pijama completa|55000|Ropa
+Ropa interior pack x5|32000|Ropa
+Chaqueta de jean|130000|Ropa
+Sandalias casuales|45000|Ropa
+Botas de cuero|195000|Ropa
+Corbata de seda|38000|Ropa
+Sabanas dobles|85000|Hogar
+Almohada viscoelastica|62000|Hogar
+Toalla de bano grande|28000|Hogar
+Cortinas blackout|95000|Hogar
+Organizador de closet|42000|Hogar
+Lampara de mesa LED|55000|Hogar
+Espejo decorativo|78000|Hogar
+Tapete de sala|120000|Hogar
+Juego de ollas x5|185000|Hogar
+Set de cuchillos|68000|Hogar
+Licuadora 700W|125000|Hogar
+Plancha a vapor|72000|Hogar
+Escoba con recogedor|15000|Hogar
+Canasta de ropa|22000|Hogar
+Reloj de pared|35000|Hogar
+Sofa modular 3 puestos|460000|Hogar
+Mesa de centro|210000|Hogar
+Silla escritorio ergonomica|320000|Hogar
+Ventilador de torre|145000|Hogar
+Aspiradora portatil|195000|Hogar
+Pelota de futbol|35000|Deportes
+Guantes de boxeo|72000|Deportes
+Raqueta de tenis|95000|Deportes
+Mancuernas 10kg par|110000|Deportes
+Camiseta seleccion Colombia|120000|Deportes
+Balon de baloncesto|42000|Deportes
+Lazo para saltar|15000|Deportes
+Colchoneta yoga|38000|Deportes
+Banda elastica set x3|25000|Deportes
+Botella deportiva 750ml|18000|Deportes
+Maletin deportivo|65000|Deportes
+Canilleras futbol|28000|Deportes
+Gafas de natacion|32000|Deportes
+Cronometro digital|22000|Deportes
+Rodillera deportiva par|35000|Deportes
+Bicicleta de montana|480000|Deportes
+Patines en linea|195000|Deportes
+Casco ciclismo|85000|Deportes
+Guantes de gimnasio|28000|Deportes
+Silbato profesional|8500|Deportes
+Lapiz grafito caja x12|1200|Papeleria
+Borrador escolar|800|Papeleria
+Cuaderno universitario 100h|3500|Papeleria
+Esfero negro caja x12|6500|Papeleria
+Resaltador set x5|9800|Papeleria
+Carpeta argolla|12500|Papeleria
+Tijeras escolares|4500|Papeleria
+Pegante en barra|2800|Papeleria
+Regla 30cm|1500|Papeleria
+Marcadores set x10|15000|Papeleria
+Cinta adhesiva transparente|2200|Papeleria
+Block de notas adhesivas|5500|Papeleria
+Papel bond resma x500|18500|Papeleria
+Corrector liquido|3200|Papeleria
+Sacapuntas metalico|1800|Papeleria
+Compas escolar|7500|Papeleria
+Calculadora cientifica|45000|Papeleria
+Cartuchera escolar|22000|Papeleria
+Agenda ejecutiva 2025|28000|Papeleria
+Clip metalico caja x100|2000|Papeleria
